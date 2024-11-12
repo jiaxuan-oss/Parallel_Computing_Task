@@ -1,0 +1,22 @@
+#!/bin/bash
+#SBATCH --job-name=posix_job	 ### job name
+#SBATCH --time=00:10:00		 ### hh:mm:ss or dd-hh:mm:ss
+#SBATCH --mem=16G				 ### memory setting is max @ 16 GB per core
+#SBATCH --ntasks=1				 ### launch one process
+#SBATCH --cpus-per-task=1		 ### single thread process
+#SBATCH --output=serial%j.out
+#SBATCH --partition=defq
+
+if [ ! -f serial ]
+then
+ gcc task1_serial.c -lm -o serial
+else
+ if [ task1_serial.c -nt serial ]
+ then
+  gcc task1_serial.c -lm -o serial
+ fi
+fi
+
+./serial
+
+exit 0

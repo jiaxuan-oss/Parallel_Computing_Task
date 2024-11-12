@@ -1,0 +1,24 @@
+#!/bin/bash
+#SBATCH --job-name=posix_job	 ### job name
+#SBATCH --time=00:10:00		 ### hh:mm:ss or dd-hh:mm:ss
+#SBATCH --mem=20G				 ### memory setting is max @ mem/number_of_threads per core
+#SBATCH --ntasks=1				 ### launch one process
+#SBATCH --cpus-per-task=4		 ### multi-threaded processes
+#SBATCH --output=posix%j.out
+#SBATCH --partition=defq
+
+NUM_THREADS=${SLURM_CPUS_PER_TASK}
+
+if [ ! -f posix ]
+then
+ gcc task2_posix.c -lpthread -lm -o posix
+else
+ if [ task2_posix.c -nt posix ]
+ then
+  gcc task2_posix.c -lpthread -lm -o posix
+ fi
+fi
+
+./posix
+
+exit 0
