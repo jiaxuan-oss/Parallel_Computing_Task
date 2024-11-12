@@ -1,0 +1,13 @@
+Rank 0: Prime 661 is equal to adjacent prime from rank 4.
+Rank 0: Prime 257 is equal to adjacent prime from rank 2.
+Rank 0: Prime 257 is equal to adjacent prime from rank 4.
+Rank 0: Prime 809 is equal to adjacent prime from rank 1.
+Rank 0: Prime 857 is equal to adjacent prime from rank 1.
+Rank 0: Prime 11 is equal to adjacent prime from rank 2.
+Rank 0: Prime 89 is equal to adjacent prime from rank 4.
+Rank 0: Prime 929 is equal to adjacent prime from rank 2.
+Rank 0: Prime 2 is equal to adjacent prime from rank 4.
+Rank 0: Prime 829 is equal to adjacent prime from rank 4.
+Rank 0: Prime 37 is equal to adjacent prime from rank 2.
+Rank 0: Prime 509 is equal to adjacent prime from rank 4.
+Rank 0: Prime 353 is equal to adjacent prime from rank 2.

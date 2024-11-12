@@ -1,0 +1,6 @@
+Rank 5: Prime 199 is equal to adjacent prime from rank -2.
+Rank 5: Prime 937 is equal to adjacent prime from rank 9.
+Rank 5: Prime 227 is equal to adjacent prime from rank 9.
+Rank 5: Prime 937 is equal to adjacent prime from rank 1.
+Rank 5: Prime 73 is equal to adjacent prime from rank 9.
+Rank 5: Prime 557 is equal to adjacent prime from rank 9.

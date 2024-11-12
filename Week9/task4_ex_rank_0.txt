@@ -1,0 +1,4 @@
+Rank 0: Prime 41 is equal to adjacent prime from rank 2.
+Rank 0: Prime 457 is equal to adjacent prime from rank 2.
+Rank 0: Prime 17 is equal to adjacent prime from rank 4.
+Rank 0: Prime 157 is equal to adjacent prime from rank 4.

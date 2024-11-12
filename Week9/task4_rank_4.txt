@@ -1,0 +1,10 @@
+Rank 4: Prime 661 is equal to adjacent prime from rank 0.
+Rank 4: Prime 257 is equal to adjacent prime from rank 0.
+Rank 4: Prime 199 is equal to adjacent prime from rank 5.
+Rank 4: Prime 89 is equal to adjacent prime from rank 0.
+Rank 4: Prime 419 is equal to adjacent prime from rank 8.
+Rank 4: Prime 691 is equal to adjacent prime from rank 6.
+Rank 4: Prime 2 is equal to adjacent prime from rank 0.
+Rank 4: Prime 829 is equal to adjacent prime from rank 0.
+Rank 4: Prime 509 is equal to adjacent prime from rank 0.
+Rank 4: Prime 107 is equal to adjacent prime from rank 8.

@@ -1,0 +1,7 @@
+Rank 7: Prime 617 is equal to adjacent prime from rank 6.
+Rank 7: Prime 233 is equal to adjacent prime from rank 5.
+Rank 7: Prime 2 is equal to adjacent prime from rank 5.
+Rank 7: Prime 577 is equal to adjacent prime from rank 5.
+Rank 7: Prime 307 is equal to adjacent prime from rank 6.
+Rank 7: Prime 443 is equal to adjacent prime from rank 5.
+Rank 7: Prime 541 is equal to adjacent prime from rank 6.

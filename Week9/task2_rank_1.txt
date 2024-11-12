@@ -1,0 +1,3 @@
+Rank 1: Prime 709 is equal to adjacent prime from rank 0.
+Rank 1: Prime 821 is equal to adjacent prime from rank 0.
+Rank 1: Prime 181 is equal to adjacent prime from rank 3.

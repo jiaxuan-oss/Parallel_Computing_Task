@@ -1,0 +1,13 @@
+Rank 2: Prime 191 is equal to adjacent prime from rank 6.
+Rank 2: Prime 401 is equal to adjacent prime from rank 6.
+Rank 2: Prime 593 is equal to adjacent prime from rank -2.
+Rank 2: Prime 3 is equal to adjacent prime from rank -2.
+Rank 2: Prime 643 is equal to adjacent prime from rank -2.
+Rank 2: Prime 41 is equal to adjacent prime from rank -2.
+Rank 2: Prime 839 is equal to adjacent prime from rank -2.
+Rank 2: Prime 751 is equal to adjacent prime from rank 6.
+Rank 2: Prime 269 is equal to adjacent prime from rank -2.
+Rank 2: Prime 2 is equal to adjacent prime from rank -2.
+Rank 2: Prime 103 is equal to adjacent prime from rank 0.
+Rank 2: Prime 397 is equal to adjacent prime from rank 6.
+Rank 2: Prime 577 is equal to adjacent prime from rank 0.

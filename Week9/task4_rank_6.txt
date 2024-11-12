@@ -1,0 +1,10 @@
+Rank 6: Prime 787 is equal to adjacent prime from rank 2.
+Rank 6: Prime 307 is equal to adjacent prime from rank 2.
+Rank 6: Prime 113 is equal to adjacent prime from rank 7.
+Rank 6: Prime 691 is equal to adjacent prime from rank 4.
+Rank 6: Prime 113 is equal to adjacent prime from rank 7.
+Rank 6: Prime 113 is equal to adjacent prime from rank 2.
+Rank 6: Prime 619 is equal to adjacent prime from rank 7.
+Rank 6: Prime 101 is equal to adjacent prime from rank 7.
+Rank 6: Prime 191 is equal to adjacent prime from rank 7.
+Rank 6: Prime 701 is equal to adjacent prime from rank 2.

@@ -1,0 +1,7 @@
+Rank 10: Prime 887 is equal to adjacent prime from rank 6.
+Rank 10: Prime 269 is equal to adjacent prime from rank -2.
+Rank 10: Prime 457 is equal to adjacent prime from rank 6.
+Rank 10: Prime 19 is equal to adjacent prime from rank 8.
+Rank 10: Prime 19 is equal to adjacent prime from rank -2.
+Rank 10: Prime 613 is equal to adjacent prime from rank 8.
+Rank 10: Prime 709 is equal to adjacent prime from rank -2.

@@ -1,0 +1,16 @@
+Rank 5: Prime 47 is equal to adjacent prime from rank 1.
+Rank 5: Prime 43 is equal to adjacent prime from rank -2.
+Rank 5: Prime 683 is equal to adjacent prime from rank 7.
+Rank 5: Prime 487 is equal to adjacent prime from rank 9.
+Rank 5: Prime 617 is equal to adjacent prime from rank -2.
+Rank 5: Prime 43 is equal to adjacent prime from rank -2.
+Rank 5: Prime 13 is equal to adjacent prime from rank -2.
+Rank 5: Prime 653 is equal to adjacent prime from rank 9.
+Rank 5: Prime 257 is equal to adjacent prime from rank 1.
+Rank 5: Prime 251 is equal to adjacent prime from rank 1.
+Rank 5: Prime 997 is equal to adjacent prime from rank 9.
+Rank 5: Prime 919 is equal to adjacent prime from rank 7.
+Rank 5: Prime 199 is equal to adjacent prime from rank -2.
+Rank 5: Prime 107 is equal to adjacent prime from rank 7.
+Rank 5: Prime 881 is equal to adjacent prime from rank 1.
+Rank 5: Prime 811 is equal to adjacent prime from rank 7.

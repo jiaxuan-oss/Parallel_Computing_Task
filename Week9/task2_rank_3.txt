@@ -1,0 +1,6 @@
+Rank 3: Prime 23 is equal to adjacent prime from rank 2.
+Rank 3: Prime 73 is equal to adjacent prime from rank 2.
+Rank 3: Prime 101 is equal to adjacent prime from rank 5.
+Rank 3: Prime 929 is equal to adjacent prime from rank 2.
+Rank 3: Prime 181 is equal to adjacent prime from rank 1.
+Rank 3: Prime 31 is equal to adjacent prime from rank 2.

@@ -1,0 +1,6 @@
+Rank 1: Prime 269 is equal to adjacent prime from rank 3.
+Rank 1: Prime 809 is equal to adjacent prime from rank -2.
+Rank 1: Prime 857 is equal to adjacent prime from rank -2.
+Rank 1: Prime 499 is equal to adjacent prime from rank 3.
+Rank 1: Prime 271 is equal to adjacent prime from rank 3.
+Rank 1: Prime 937 is equal to adjacent prime from rank 5.

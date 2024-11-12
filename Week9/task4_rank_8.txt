@@ -1,0 +1,12 @@
+Rank 8: Prime 929 is equal to adjacent prime from rank 9.
+Rank 8: Prime 419 is equal to adjacent prime from rank 4.
+Rank 8: Prime 727 is equal to adjacent prime from rank 10.
+Rank 8: Prime 13 is equal to adjacent prime from rank 10.
+Rank 8: Prime 479 is equal to adjacent prime from rank 9.
+Rank 8: Prime 971 is equal to adjacent prime from rank 9.
+Rank 8: Prime 67 is equal to adjacent prime from rank 9.
+Rank 8: Prime 467 is equal to adjacent prime from rank 10.
+Rank 8: Prime 419 is equal to adjacent prime from rank 9.
+Rank 8: Prime 313 is equal to adjacent prime from rank 9.
+Rank 8: Prime 547 is equal to adjacent prime from rank 9.
+Rank 8: Prime 107 is equal to adjacent prime from rank 4.

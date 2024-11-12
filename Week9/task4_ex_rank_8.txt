@@ -1,0 +1,5 @@
+Rank 8: Prime 17 is equal to adjacent prime from rank 4.
+Rank 8: Prime 563 is equal to adjacent prime from rank 4.
+Rank 8: Prime 859 is equal to adjacent prime from rank 4.
+Rank 8: Prime 19 is equal to adjacent prime from rank 10.
+Rank 8: Prime 613 is equal to adjacent prime from rank 10.

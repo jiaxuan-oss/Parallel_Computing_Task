@@ -1,0 +1,11 @@
+Rank 3: Prime 269 is equal to adjacent prime from rank 1.
+Rank 3: Prime 967 is equal to adjacent prime from rank -2.
+Rank 3: Prime 853 is equal to adjacent prime from rank 7.
+Rank 3: Prime 587 is equal to adjacent prime from rank 7.
+Rank 3: Prime 499 is equal to adjacent prime from rank 1.
+Rank 3: Prime 271 is equal to adjacent prime from rank 1.
+Rank 3: Prime 853 is equal to adjacent prime from rank -2.
+Rank 3: Prime 937 is equal to adjacent prime from rank 7.
+Rank 3: Prime 383 is equal to adjacent prime from rank -2.
+Rank 3: Prime 191 is equal to adjacent prime from rank 7.
+Rank 3: Prime 409 is equal to adjacent prime from rank -2.

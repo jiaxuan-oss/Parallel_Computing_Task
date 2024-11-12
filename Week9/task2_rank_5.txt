@@ -1,0 +1,7 @@
+Rank 5: Prime 211 is equal to adjacent prime from rank 4.
+Rank 5: Prime 151 is equal to adjacent prime from rank 4.
+Rank 5: Prime 101 is equal to adjacent prime from rank 3.
+Rank 5: Prime 233 is equal to adjacent prime from rank 7.
+Rank 5: Prime 2 is equal to adjacent prime from rank 7.
+Rank 5: Prime 577 is equal to adjacent prime from rank 7.
+Rank 5: Prime 443 is equal to adjacent prime from rank 7.

@@ -1,0 +1,10 @@
+Rank 10: Prime 131 is equal to adjacent prime from rank 11.
+Rank 10: Prime 787 is equal to adjacent prime from rank 11.
+Rank 10: Prime 937 is equal to adjacent prime from rank 11.
+Rank 10: Prime 821 is equal to adjacent prime from rank 11.
+Rank 10: Prime 439 is equal to adjacent prime from rank 11.
+Rank 10: Prime 727 is equal to adjacent prime from rank 8.
+Rank 10: Prime 13 is equal to adjacent prime from rank 8.
+Rank 10: Prime 739 is equal to adjacent prime from rank 11.
+Rank 10: Prime 467 is equal to adjacent prime from rank 8.
+Rank 10: Prime 809 is equal to adjacent prime from rank 11.

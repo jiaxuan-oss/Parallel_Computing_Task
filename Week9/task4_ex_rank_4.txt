@@ -1,0 +1,10 @@
+Rank 4: Prime 43 is equal to adjacent prime from rank 6.
+Rank 4: Prime 17 is equal to adjacent prime from rank 8.
+Rank 4: Prime 617 is equal to adjacent prime from rank 6.
+Rank 4: Prime 43 is equal to adjacent prime from rank 6.
+Rank 4: Prime 13 is equal to adjacent prime from rank 6.
+Rank 4: Prime 563 is equal to adjacent prime from rank 8.
+Rank 4: Prime 17 is equal to adjacent prime from rank 0.
+Rank 4: Prime 157 is equal to adjacent prime from rank 0.
+Rank 4: Prime 859 is equal to adjacent prime from rank 8.
+Rank 4: Prime 199 is equal to adjacent prime from rank 6.
